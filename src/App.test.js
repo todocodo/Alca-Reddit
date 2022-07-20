@@ -1,3 +1,9 @@
+/*
+  This are the default testings
+
+  Some additional testings are done in the backend __test__ folder 
+*/
+
 import { render, screen } from '@testing-library/react';
 import App from './App';
 
