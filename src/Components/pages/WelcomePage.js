@@ -13,7 +13,7 @@ const WelcomePage = () => {
             <p className={styles.text_info}>A bit Info:</p>
             <ul>
                 <li className={styles.text_info}>It uses ReactJs for the frontend and Koa.js for the backend</li>
-                <li className={styles.text_info}>It has 2 main functionalities, the user can create a thread and view all threads that are created</li>
+                <li className={styles.text_info}>It has 3 main functionalities, the user can create and delete a thread and view all threads that are created</li>
                 <li className={styles.text_info}>The threads are stored in the cloud-based MongoDB Database</li>
             </ul>
             <div className="row mt-6 text-center">
