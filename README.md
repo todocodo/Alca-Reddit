@@ -1,6 +1,10 @@
 # Alca Reddit App 
 ##### A task from Alcatraz Bulgaria
 
+### Prerequisites:
+Node.js - latest version
+MongoDB - latest version
+
 ### Instructions - How to run it on your local machine
 
 1. Clone the repository
