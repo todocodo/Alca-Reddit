@@ -1,5 +1,5 @@
 # Alca Reddit App 
-##### A task from Alcatraz Bulgaria
+##### Simple Blog App
 
 ### Prerequisites:
 Node.js - latest version
